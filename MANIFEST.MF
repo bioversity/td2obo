@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: TdV52Obo
+Class-Path: poi-3.12-20150511.jar
+
